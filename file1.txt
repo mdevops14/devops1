@@ -1,0 +1,8 @@
+git commands
+git
+git clone url
+git status
+git add .
+git commit -m
+git config 
+
