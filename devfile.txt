@@ -1,0 +1,17 @@
+Basic GIT commands
+git
+git init
+git clone URL/PATH
+git config --global user.name "username"
+git config --global user.email "sample@email.com"
+git branch
+git checkout -b branchname
+git checkout branchname
+git add *
+git add .
+git add filename
+git status
+git commit -m "Sample message"
+git push origin branchname
+git pull origin branchname
+
